@@ -20,3 +20,5 @@ Leto yarkoj zelen'yu odeto,
 Leto zharkim solnyshkom sogreto,
 Dyshit leto veterkom.<br><br>
 
+![з8](https://github.com/user-attachments/assets/f1dc6b08-82fe-468e-a837-bdd981be7fb9)
+![з7](https://github.com/user-attachments/assets/52d95321-e26b-446a-ad71-21a185dc5bc9)
