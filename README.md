@@ -3,6 +3,7 @@
 ![з8](https://github.com/user-attachments/assets/f1dc6b08-82fe-468e-a837-bdd981be7fb9)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/ls5l806Fc-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hv47hbvp6wg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Мы покрыты бронзовым загаром,
 Ягоды в лесу горят пожаром.
@@ -16,6 +17,7 @@
 ![з8](https://github.com/user-attachments/assets/f1dc6b08-82fe-468e-a837-bdd981be7fb9)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/HWIfauwc_NA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6m0JsmzfY9g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 My pokryty bronzovym zagarom,
 YAgody v lesu goryat pozharom.
